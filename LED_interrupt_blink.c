@@ -1,4 +1,4 @@
-// Program for ATmega328 P to allow control of WS2812B LEDs
+// Program for ATmega328P to produce 0.5 Hz blinking of an LED
 // Clock source is intended to be an external 16MHz ceramic oscillator
 
 #include <avr/io.h>
